@@ -1,0 +1,114 @@
+.container
+{
+	margin: 0 auto;
+	width: 1180px;
+}
+.header-container
+{
+	text-align: center;
+	font-size: large;
+	font-family: times news roman;
+}
+
+hr
+{
+	height: 2px;
+	margin-bottom: 10px;
+}
+.form-personal-details
+{
+	width: 700px;
+	position: relative;
+	margin: 
+}
+
+.image-droite,.formulaire
+{
+	 display: inline-block;
+}
+.image-droite
+{
+	float: right;
+	margin-right: -285px;
+}
+.formulaire
+{
+	margin-left: 240px;
+}
+
+#personal
+{
+ 	font-size: x-large;
+}
+.languages hr
+{
+	width: 233px;
+	margin-left: 0px;
+	margin-top: -18px;
+}
+.languages H5
+{
+	text-decoration : underline;
+}
+.competitions hr
+{
+    width: 143px;
+    margin-left: 0px;
+    margin-top: -18px;
+}
+.social hr
+{
+    width: 113px;
+    margin-left: 0px;
+    margin-top: -18px;
+}
+.Hobbies hr
+{
+    width: 90px;
+    margin-left: 0px;
+    margin-top: -18px;
+}
+.left-info
+{
+	margin-left: 0px;
+	width: 320px;
+	border-right: solid; 
+}
+.left-info,.right-info
+{
+	 display: inline-block;
+}
+.right-info
+{
+	float: right;
+	margin-left: 356px;
+	margin-top: -763px;
+}
+.left-info
+{
+	margin-left: 0px;
+}
+.Profil hr
+{
+	width: 240px;
+    margin-left: 0px;
+    margin-top: -18px;
+}
+.education hr
+{
+	width: 110px;
+    margin-left: 0px;
+    margin-top: -18px;
+}
+.academic hr
+{
+	width: 230px;
+    margin-left: 0px;
+    margin-top: -18px;
+}
+.professional hr
+{
+	width: 260px;
+    margin-left: 0px;
+    margin-top: -18px;
+}
