@@ -68,26 +68,26 @@ hr
     margin-left: 0px;
     margin-top: -18px;
 }
-.left-info
+.info
 {
-	margin-left: 0px;
-	width: 320px;
-	border-right: solid; 
+	width: 100%;
+	position: relative;
 }
 .left-info,.right-info
 {
 	 display: inline-block;
 }
+.left-info
+{
+	border-right: solid; 
+	float: left;
+}
 .right-info
 {
 	float: right;
-	margin-left: 356px;
-	margin-top: -763px;
+	width: 900px;
 }
-.left-info
-{
-	margin-left: 0px;
-}
+
 .Profil hr
 {
 	width: 240px;
